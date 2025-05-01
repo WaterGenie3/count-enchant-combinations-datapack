@@ -1,0 +1,18 @@
+scoreboard objectives remove Diamond_Shovel
+scoreboard objectives remove 10_Emeralds_Shovel
+scoreboard objectives remove 11_Emeralds_Shovel
+scoreboard objectives remove 12_Emeralds_Shovel
+scoreboard objectives remove 13_Emeralds_Shovel
+scoreboard objectives remove 14_Emeralds_Shovel
+scoreboard objectives remove 15_Emeralds_Shovel
+scoreboard objectives remove 16_Emeralds_Shovel
+scoreboard objectives remove 17_Emeralds_Shovel
+scoreboard objectives remove 18_Emeralds_Shovel
+scoreboard objectives remove 19_Emeralds_Shovel
+scoreboard objectives remove 20_Emeralds_Shovel
+scoreboard objectives remove 21_Emeralds_Shovel
+scoreboard objectives remove 22_Emeralds_Shovel
+scoreboard objectives remove 23_Emeralds_Shovel
+scoreboard objectives remove 24_Emeralds_Shovel
+
+kill @e[type=villager, tag=diamond_shovel]

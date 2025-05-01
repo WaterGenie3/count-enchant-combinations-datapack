@@ -1,0 +1,2 @@
+function genie:villager_enchant_trade_counter/diamond_shovel/clear
+function genie:villager_enchant_trade_counter/diamond_shovel/setup
