@@ -3,6 +3,14 @@
 Ad-hoc datapack to count how many times each set of enchantments and cost
 appears on a diamond shovel from level 4 toolsmith.
 
+![](docs/example-setup.png)
+
+## Usage
+
+1. Initialise with `genie:villager_enchant_trade_counter/diamond_shovel/setup` function.
+2. Sample a level 4 toolsmith with `genie:villager_enchant_trade_counter/diamond_shovel/sample` function.
+3. Clean-up with `genie:villager_enchant_trade_counter/diamond_shovel/clear` function.
+
 ## Future Reference
 
 ### Implementation Details
@@ -21,3 +29,9 @@ appears on a diamond shovel from level 4 toolsmith.
  - SethBling's [CBScript](https://github.com/SethBling/cbscript)
  - vberlier's [Beet](https://github.com/mcbeet/beet)
  - TheblueMan003's [StarLight](https://github.com/TheblueMan003/StarLight)
+
+## References
+
+- [MCStacker](https://mcstacker.net/)
+- [Wiki's datapack article](https://minecraft.wiki/w/Data_pack)
+- [Pernsteiner's enchantment probability tables](http://pernsteiner.org/minecraft/enchant/leveltables/Diamond_Tool_index.html)
