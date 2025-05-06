@@ -35,3 +35,4 @@ appears on a diamond shovel from level 4 toolsmith.
 - [MCStacker](https://mcstacker.net/)
 - [Wiki's datapack article](https://minecraft.wiki/w/Data_pack)
 - [Pernsteiner's enchantment probability tables](http://pernsteiner.org/minecraft/enchant/leveltables/Diamond_Tool_index.html)
+- [Scoreboard Tweaks Mod](https://modrinth.com/mod/scoreboardtweaks) to increase the maximum number of lines and resize them
